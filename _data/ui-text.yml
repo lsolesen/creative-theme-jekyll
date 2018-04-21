@@ -18,6 +18,6 @@ en-AU:
 # Danish
 # ------
 da: &DEFAULT_DA
-  page                       : "Side"
+  toggle_navigation          : "Vis/skjul navigationen"
 da-DK:
   <<: *DEFAULT_DA
